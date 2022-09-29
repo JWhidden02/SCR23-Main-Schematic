@@ -1,0 +1,73 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 64503d07-5f6a-4ffd-b005-97f9848c9cbf)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 194.056 44.958) (size 37.338 17.018) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d5e68706-1734-4fd4-8c9d-b165d245e9af)
+    (property "Sheet name" "ECU Pin Schematic" (id 0) (at 194.056 44.2464 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "FuseBox.kicad_sch" (id 1) (at 194.056 62.5606 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af" (page "2"))
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381" (page "3"))
+  )
+
+  (symbol_instances
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/3693eb7a-dc6e-427e-954b-8fe4aa37f7ca"
+      (reference "F?") (unit 1) (value "Fuse 3") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/395d3e01-bff5-4ac7-bd31-10468b55a1ff"
+      (reference "F?") (unit 1) (value "Fuse 1") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/8f47ff78-ca52-4f5b-afa7-9683a8ea3b86"
+      (reference "F?") (unit 1) (value "Fuse 4") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/cb22fe25-46a7-40e3-a16c-5ad37b50926c"
+      (reference "F?") (unit 1) (value "Fuse 2") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/1934fbee-ba19-4311-b371-149caf5afa9e"
+      (reference "K?") (unit 1) (value "Relay") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/634dd138-85c3-4319-9ce6-b1a8d1b05163"
+      (reference "K?") (unit 1) (value "Relay") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9fb1d08d-a25d-489b-a49c-09206220bcc2"
+      (reference "K?") (unit 1) (value "Relay") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c6eb419e-c626-467b-9e45-ee012504670a"
+      (reference "K?") (unit 1) (value "Relay") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
+      (reference "U?") (unit 1) (value "DT_12_Pin") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
+      (reference "U?") (unit 1) (value "Bridge") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/86899771-7cea-4716-a89f-197a41bef853"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9ad36b87-025b-4660-a2a7-2295d4ef041a"
+      (reference "U?") (unit 1) (value "DTM04-12pb") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c19ff2e9-90b3-4963-ad0e-1db686587abb"
+      (reference "U?") (unit 1) (value "Bridge") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/cef0df34-9757-448c-a497-d0ebc65f136c"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
+    )
+  )
+)
