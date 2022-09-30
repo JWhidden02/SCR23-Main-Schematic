@@ -51,23 +51,23 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c6eb419e-c626-467b-9e45-ee012504670a"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/3b29666a-67c2-4472-91aa-b0c8894415aa"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
+    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
       (reference "U?") (unit 1) (value "DT_12_Pin") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7204de1b-d34d-45d4-9671-fd656b683233"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
+    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/86899771-7cea-4716-a89f-197a41bef853"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9ad36b87-025b-4660-a2a7-2295d4ef041a"
       (reference "U?") (unit 1) (value "DTM04-12pb") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c19ff2e9-90b3-4963-ad0e-1db686587abb"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/cef0df34-9757-448c-a497-d0ebc65f136c"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
     )
   )
 )
