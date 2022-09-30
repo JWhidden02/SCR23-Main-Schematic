@@ -328,6 +328,18 @@
     [
       "5fb112e4-6825-45ae-bf54-63d687fee381",
       "Fuse Box Schematic"
+    ],
+    [
+      "53ac2e2d-c2df-4ea2-a089-bbe68ee8714f",
+      "ECU Main Loom"
+    ],
+    [
+      "7d7721af-ff65-4fec-b227-3953c58d72e6",
+      "Charging System"
+    ],
+    [
+      "9497869a-07db-4902-ab45-929f549baad6",
+      "DTM Dash"
     ]
   ],
   "text_variables": {}
