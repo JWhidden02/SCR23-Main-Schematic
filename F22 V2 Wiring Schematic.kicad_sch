@@ -52,7 +52,7 @@
       (reference "D?") (unit 1) (value "LED") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/431650dc-7a0d-4049-a2a5-0f4012a3a97a"
-      (reference "D?") (unit 1) (value "DIODE") (footprint "")
+      (reference "D?") (unit 1) (value "LED") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/3693eb7a-dc6e-427e-954b-8fe4aa37f7ca"
       (reference "F?") (unit 1) (value "Fuse 3") (footprint "")
@@ -76,7 +76,7 @@
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/8c2442dc-adb6-40d8-ac32-a770c9560b3d"
-      (reference "K?") (unit 1) (value "Relay") (footprint "")
+      (reference "K?") (unit 1) (value "Starter Relay") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9fb1d08d-a25d-489b-a49c-09206220bcc2"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
@@ -85,7 +85,7 @@
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/789c979f-a102-41a5-94a6-cb4feb9c6cf4"
-      (reference "M?") (unit 1) (value "Motor_DC") (footprint "")
+      (reference "M?") (unit 1) (value "Starter Motor") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/1cecd4a9-110d-4a27-a618-431cd6f88b25"
       (reference "U?") (unit 1) (value "Fuse_Box_Connector") (footprint "")
@@ -97,7 +97,7 @@
       (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/3b5fa024-eb67-42ab-86f8-7480852ea0ca"
-      (reference "U?") (unit 1) (value "switch") (footprint "")
+      (reference "U?") (unit 1) (value "Master Disconnect Switch (Big Red One)") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/3dce2e80-e48e-4e90-bffa-0c3639f68a0f"
       (reference "U?") (unit 1) (value "E_Stop") (footprint "")
@@ -112,7 +112,7 @@
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/992c69f0-296b-42bb-b97b-5a36d0ed0145"
-      (reference "U?") (unit 1) (value "15 V Switch") (footprint "")
+      (reference "U?") (unit 1) (value "Ignition Switch") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9ad36b87-025b-4660-a2a7-2295d4ef041a"
       (reference "U?") (unit 1) (value "DTM04-12pb") (footprint "")
@@ -127,7 +127,7 @@
       (reference "U?") (unit 1) (value "ECU") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/e1c39ef5-d71a-4924-93c9-5f7392fbec01"
-      (reference "U?") (unit 1) (value "Brake Override") (footprint "")
+      (reference "U?") (unit 1) (value "Brake Over-travel") (footprint "")
     )
   )
 )
