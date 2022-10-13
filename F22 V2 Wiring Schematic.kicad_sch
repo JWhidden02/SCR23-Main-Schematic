@@ -54,6 +54,9 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/431650dc-7a0d-4049-a2a5-0f4012a3a97a"
       (reference "D?") (unit 1) (value "LED") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/0e7f3c87-b82a-4931-9272-90dfa9a38cda"
+      (reference "F?") (unit 1) (value "1A Fuse") (footprint "")
+    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/3693eb7a-dc6e-427e-954b-8fe4aa37f7ca"
       (reference "F?") (unit 1) (value "Fuse 3") (footprint "")
     )
@@ -111,8 +114,14 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/85f93514-dcb0-41b7-96bd-fdec7c68ce6d"
+      (reference "U?") (unit 1) (value "Shift Up") (footprint "")
+    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/992c69f0-296b-42bb-b97b-5a36d0ed0145"
       (reference "U?") (unit 1) (value "Ignition Switch") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/994da6e4-6e9e-4161-a30a-5bc3ca8203d6"
+      (reference "U?") (unit 1) (value "Shift Down") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9ad36b87-025b-4660-a2a7-2295d4ef041a"
       (reference "U?") (unit 1) (value "DTM04-12pb") (footprint "")
