@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "F22 V2 Wiring Schematic.kicad_pro",
+    "filename": "F22 V4 Main Schematic.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -316,39 +316,6 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "64503d07-5f6a-4ffd-b005-97f9848c9cbf",
-      ""
-    ],
-    [
-      "d5e68706-1734-4fd4-8c9d-b165d245e9af",
-      "ECU Pin Schematic"
-    ],
-    [
-      "5fb112e4-6825-45ae-bf54-63d687fee381",
-      "Fuse Box Schematic"
-    ],
-    [
-      "53ac2e2d-c2df-4ea2-a089-bbe68ee8714f",
-      "ECU Main Loom"
-    ],
-    [
-      "7d7721af-ff65-4fec-b227-3953c58d72e6",
-      "Charging System"
-    ],
-    [
-      "9497869a-07db-4902-ab45-929f549baad6",
-      "DTM Dash"
-    ],
-    [
-      "7c62c02e-06a1-4b87-9f1e-fbacd6b03153",
-      "Coil Overview"
-    ],
-    [
-      "1e9ec499-b2d5-4724-ba6d-0e62ea65c89a",
-      "Engine Overview"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {}
 }

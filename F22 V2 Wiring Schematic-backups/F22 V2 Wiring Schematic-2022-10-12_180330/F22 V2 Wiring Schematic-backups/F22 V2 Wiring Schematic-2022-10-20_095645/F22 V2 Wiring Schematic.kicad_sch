@@ -28,7 +28,6 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6" (page "5"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6" (page "6"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153" (page "7"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1e9ec499-b2d5-4724-ba6d-0e62ea65c89a" (page "8"))
   )
 
   (symbol_instances
@@ -140,9 +139,6 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1e9ec499-b2d5-4724-ba6d-0e62ea65c89a/7d654b39-a802-4ca3-b327-07f35da08bc7"
-      (reference "U?") (unit 1) (value "ECU_Engine") (footprint "")
-    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/85f93514-dcb0-41b7-96bd-fdec7c68ce6d"
       (reference "U?") (unit 1) (value "Shift Up") (footprint "")
     )
@@ -160,9 +156,6 @@
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c19ff2e9-90b3-4963-ad0e-1db686587abb"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1e9ec499-b2d5-4724-ba6d-0e62ea65c89a/c67ae3b5-6133-4d16-9d57-73936b4775aa"
-      (reference "U?") (unit 1) (value "DTM_Engine_Sensors") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/53ac2e2d-c2df-4ea2-a089-bbe68ee8714f/d716e568-9167-484a-872e-e4bb0c920da3"
       (reference "U?") (unit 1) (value "ECU") (footprint "")
