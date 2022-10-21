@@ -27,16 +27,9 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/53ac2e2d-c2df-4ea2-a089-bbe68ee8714f" (page "4"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6" (page "5"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6" (page "6"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153" (page "7"))
   )
 
   (symbol_instances
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/00eefa3c-d352-4f7e-a7eb-61c61fb1d437"
-      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/0c2b7b7c-f531-4e4d-b7e9-14009c71c2a8"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/4b78eb0d-b686-48cb-bb04-b5ac139e5b04"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -46,13 +39,7 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/713f16f1-4af6-42c9-a147-2452a075494d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/86beb290-aa94-483f-b3ec-5f12bf0d4376"
-      (reference "#PWR?") (unit 1) (value "-12V") (footprint "")
-    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/b401045c-d5fc-43b2-b6b6-d7c38968422c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/e2f800aa-b169-43f1-ba7f-7b7b429c05be"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/fa13aa04-2cb8-4e56-9171-fb4fa9da42b9"
@@ -60,9 +47,6 @@
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/ca7d61f1-bee3-4c8e-982a-392976b5ef5a"
       (reference "BT?") (unit 1) (value "Battery") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/48fdbfbc-b7af-402c-aa02-76ea76c634c3"
-      (reference "Coil?") (unit 1) (value "L") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/3e9f8713-3871-48b2-b75d-3d560dfcdc3e"
       (reference "D?") (unit 1) (value "LED") (footprint "")
@@ -88,9 +72,6 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/cb22fe25-46a7-40e3-a16c-5ad37b50926c"
       (reference "F?") (unit 1) (value "Fuse 2") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/e0828101-b64e-4807-a66b-4eceaa7dbf18"
-      (reference "INJ?") (unit 1) (value "L") (footprint "")
-    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/1934fbee-ba19-4311-b371-149caf5afa9e"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
@@ -115,9 +96,6 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/20b82511-f783-419f-a663-9078213095b6"
       (reference "U?") (unit 1) (value "DTM_Dash") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/2532131a-5745-4d1e-aaf6-097197ab61bc"
-      (reference "U?") (unit 1) (value "3") (footprint "")
-    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/3b29666a-67c2-4472-91aa-b0c8894415aa"
       (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
     )
@@ -132,9 +110,6 @@
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7204de1b-d34d-45d4-9671-fd656b683233"
       (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/78a2af29-11b1-4b2c-a617-5c3597d1d1a7"
-      (reference "U?") (unit 1) (value "ECU2") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
@@ -162,9 +137,6 @@
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/e1c39ef5-d71a-4924-93c9-5f7392fbec01"
       (reference "U?") (unit 1) (value "Brake Over-travel") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/f475dfb6-4e72-4a41-93e5-26f251fce7df"
-      (reference "U?") (unit 1) (value "4") (footprint "")
     )
   )
 )
