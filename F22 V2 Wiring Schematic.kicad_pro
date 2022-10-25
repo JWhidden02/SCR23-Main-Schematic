@@ -323,11 +323,11 @@
     ],
     [
       "d5e68706-1734-4fd4-8c9d-b165d245e9af",
-      "ECU Pin Schematic"
+      "ECU"
     ],
     [
-      "5fb112e4-6825-45ae-bf54-63d687fee381",
-      "Fuse Box Schematic"
+      "c61ebb53-a6d0-4444-86d9-f19c0fecfdba",
+      "Fuse Box"
     ],
     [
       "53ac2e2d-c2df-4ea2-a089-bbe68ee8714f",
@@ -346,8 +346,12 @@
       "Coil Overview"
     ],
     [
-      "1e9ec499-b2d5-4724-ba6d-0e62ea65c89a",
-      "Engine Overview"
+      "8089b290-d208-4c94-858c-dff9966b58d6",
+      "Engine"
+    ],
+    [
+      "d75c62e5-497b-4bcb-875e-651ecad01f1b",
+      "Dashboard"
     ]
   ],
   "text_variables": {}

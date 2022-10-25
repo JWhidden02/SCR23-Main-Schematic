@@ -8,14 +8,50 @@
   )
 
 
-  (sheet (at 194.056 44.958) (size 37.338 17.018) (fields_autoplaced)
+  (sheet (at 146.558 50.038) (size 30.226 90.932) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8089b290-d208-4c94-858c-dff9966b58d6)
+    (property "Sheet name" "Engine" (id 0) (at 146.558 49.3264 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Engine.kicad_sch" (id 1) (at 146.558 141.5546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 105.664 50.038) (size 27.94 90.678) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid c61ebb53-a6d0-4444-86d9-f19c0fecfdba)
+    (property "Sheet name" "Fuse Box" (id 0) (at 105.664 49.3264 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Fuse Box.kicad_sch" (id 1) (at 105.664 141.3006 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 64.262 50.038) (size 25.654 90.932) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid d5e68706-1734-4fd4-8c9d-b165d245e9af)
-    (property "Sheet name" "ECU Pin Schematic" (id 0) (at 194.056 44.2464 0)
+    (property "Sheet name" "ECU" (id 0) (at 64.262 49.3264 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "FuseBox.kicad_sch" (id 1) (at 194.056 62.5606 0)
+    (property "Sheet file" "ECU.kicad_sch" (id 1) (at 64.262 141.5546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 189.738 50.292) (size 32.258 90.932) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid d75c62e5-497b-4bcb-875e-651ecad01f1b)
+    (property "Sheet name" "Dashboard" (id 0) (at 189.738 49.5804 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "Dashboard.kicad_sch" (id 1) (at 189.738 141.8086 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -23,12 +59,13 @@
   (sheet_instances
     (path "/" (page "1"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af" (page "2"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381" (page "3"))
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba" (page "3"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/53ac2e2d-c2df-4ea2-a089-bbe68ee8714f" (page "4"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6" (page "5"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6" (page "6"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153" (page "7"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1e9ec499-b2d5-4724-ba6d-0e62ea65c89a" (page "8"))
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6" (page "8"))
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b" (page "9"))
   )
 
   (symbol_instances
@@ -74,37 +111,37 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/0e7f3c87-b82a-4931-9272-90dfa9a38cda"
       (reference "F?") (unit 1) (value "1A Fuse") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/3693eb7a-dc6e-427e-954b-8fe4aa37f7ca"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/3693eb7a-dc6e-427e-954b-8fe4aa37f7ca"
       (reference "F?") (unit 1) (value "Fuse 3") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/395d3e01-bff5-4ac7-bd31-10468b55a1ff"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/395d3e01-bff5-4ac7-bd31-10468b55a1ff"
       (reference "F?") (unit 1) (value "Fuse 1") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/8f47ff78-ca52-4f5b-afa7-9683a8ea3b86"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/8f47ff78-ca52-4f5b-afa7-9683a8ea3b86"
       (reference "F?") (unit 1) (value "Fuse 4") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/bd2045e9-0a3c-4028-a4de-f532a098bdae"
       (reference "F?") (unit 1) (value "40AFuse") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/cb22fe25-46a7-40e3-a16c-5ad37b50926c"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/cb22fe25-46a7-40e3-a16c-5ad37b50926c"
       (reference "F?") (unit 1) (value "Fuse 2") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/e0828101-b64e-4807-a66b-4eceaa7dbf18"
       (reference "INJ?") (unit 1) (value "L") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/1934fbee-ba19-4311-b371-149caf5afa9e"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/1934fbee-ba19-4311-b371-149caf5afa9e"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/634dd138-85c3-4319-9ce6-b1a8d1b05163"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/634dd138-85c3-4319-9ce6-b1a8d1b05163"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/8c2442dc-adb6-40d8-ac32-a770c9560b3d"
       (reference "K?") (unit 1) (value "Starter Relay") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9fb1d08d-a25d-489b-a49c-09206220bcc2"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9fb1d08d-a25d-489b-a49c-09206220bcc2"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c6eb419e-c626-467b-9e45-ee012504670a"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/c6eb419e-c626-467b-9e45-ee012504670a"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/789c979f-a102-41a5-94a6-cb4feb9c6cf4"
@@ -128,7 +165,7 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/3dce2e80-e48e-4e90-bffa-0c3639f68a0f"
       (reference "U?") (unit 1) (value "E_Stop") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
       (reference "U?") (unit 1) (value "DT_12_Pin") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7204de1b-d34d-45d4-9671-fd656b683233"
@@ -137,11 +174,8 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/78a2af29-11b1-4b2c-a617-5c3597d1d1a7"
       (reference "U?") (unit 1) (value "ECU2") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1e9ec499-b2d5-4724-ba6d-0e62ea65c89a/7d654b39-a802-4ca3-b327-07f35da08bc7"
-      (reference "U?") (unit 1) (value "ECU_Engine") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/85f93514-dcb0-41b7-96bd-fdec7c68ce6d"
       (reference "U?") (unit 1) (value "Shift Up") (footprint "")
@@ -152,17 +186,14 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/994da6e4-6e9e-4161-a30a-5bc3ca8203d6"
       (reference "U?") (unit 1) (value "Shift Down") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/9ad36b87-025b-4660-a2a7-2295d4ef041a"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9ad36b87-025b-4660-a2a7-2295d4ef041a"
       (reference "U?") (unit 1) (value "DTM04-12pb") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/ad564358-d1da-438c-97a1-bce0f107cb7c"
       (reference "U?") (unit 1) (value "Start Button") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5fb112e4-6825-45ae-bf54-63d687fee381/c19ff2e9-90b3-4963-ad0e-1db686587abb"
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/c19ff2e9-90b3-4963-ad0e-1db686587abb"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1e9ec499-b2d5-4724-ba6d-0e62ea65c89a/c67ae3b5-6133-4d16-9d57-73936b4775aa"
-      (reference "U?") (unit 1) (value "DTM_Engine_Sensors") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/53ac2e2d-c2df-4ea2-a089-bbe68ee8714f/d716e568-9167-484a-872e-e4bb0c920da3"
       (reference "U?") (unit 1) (value "ECU") (footprint "")
