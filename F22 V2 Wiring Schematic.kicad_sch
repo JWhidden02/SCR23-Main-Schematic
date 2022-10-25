@@ -149,7 +149,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 61195a50-02e1-4695-9ecf-742e5399fb35)
   )
-  (wire (pts (xy 183.388 61.214) (xy 192.278 61.214))
+  (wire (pts (xy 183.388 53.848) (xy 192.278 53.848))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 6870632d-9a1b-46d4-bcb1-faa45bc71c9a)
   )
@@ -161,7 +161,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 755a1a36-5a8a-4741-a13c-0384707c245f)
   )
-  (wire (pts (xy 183.388 59.182) (xy 192.278 59.182))
+  (wire (pts (xy 183.388 51.816) (xy 192.278 51.816))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 76c1689a-2728-4d39-a4f6-845d839685b5)
   )
@@ -184,6 +184,10 @@
   (wire (pts (xy 135.89 82.55) (xy 192.278 82.55))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 95d9d1d2-27a8-46dd-bfba-177e43ecf24b)
+  )
+  (wire (pts (xy 183.388 59.944) (xy 192.278 59.944))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 97e03aee-c384-4958-ad13-dc64e4339755)
   )
   (wire (pts (xy 97.79 56.134) (xy 110.236 56.134))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -237,6 +241,10 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d5b4c8fc-0c8e-4ba3-93a0-4071dbbb0334)
   )
+  (wire (pts (xy 183.388 57.912) (xy 192.278 57.912))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid ddf6ab8d-9be6-4536-a782-99932efba808)
+  )
   (wire (pts (xy 223.52 44.704) (xy 228.854 44.704))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid df6481bd-c3bc-4612-ae1a-2a2baefc4c47)
@@ -261,16 +269,24 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f77f2501-96a7-43ee-9c19-ccb55e196066)
   )
+  (wire (pts (xy 183.388 55.88) (xy 192.278 55.88))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid f7ff8af6-4e4f-4979-bb47-d49525ee6de8)
+  )
   (wire (pts (xy 97.79 52.07) (xy 98.806 52.07))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fa4527cc-08c8-4139-af25-7645529eb096)
   )
 
+  (hierarchical_label "H2O_PWR" (shape input) (at 183.388 59.944 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 0311f385-584b-4424-b98d-cbe1761031f9)
+  )
   (hierarchical_label "COIL_SGN_1" (shape input) (at 135.89 113.792 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0a88b373-702a-4e7e-9ea5-15dc8cfd7413)
   )
-  (hierarchical_label "BAT_FUSE" (shape output) (at 183.388 61.214 180)
+  (hierarchical_label "BAT_FUSE" (shape output) (at 183.388 53.848 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1114785f-c41e-4e26-891a-c2d4d188db6e)
   )
@@ -346,6 +362,10 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 4598c07a-132d-4800-9ea7-a16f2af1396c)
   )
+  (hierarchical_label "FAN_PWR" (shape input) (at 183.388 57.912 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 46704fad-702d-49fc-9a2d-f3ca957e6d95)
+  )
   (hierarchical_label "INJ_3" (shape input) (at 135.89 98.806 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 47c2189b-a785-4ee0-89b3-9e3a27e1d6f0)
@@ -362,7 +382,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 514cddb8-966d-4691-a0c0-1a7b3de83c29)
   )
-  (hierarchical_label "BAT_FUSE" (shape input) (at 192.278 61.214 0)
+  (hierarchical_label "BAT_FUSE" (shape input) (at 192.278 53.848 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5b3c81ca-d2f9-44d2-8a9e-cb8112b14c9f)
   )
@@ -378,7 +398,11 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6f99bbf7-b814-47b5-ab4b-864c8e45dc1a)
   )
-  (hierarchical_label "EFI_PWR" (shape input) (at 192.278 59.182 0)
+  (hierarchical_label "FUEL_PWR" (shape input) (at 183.388 55.88 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 738b16e4-a929-4e25-8b90-7b91b9b9f381)
+  )
+  (hierarchical_label "EFI_PWR" (shape input) (at 192.278 51.816 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 832406f5-88e0-4b29-adee-c2182f291e79)
   )
@@ -389,6 +413,10 @@
   (hierarchical_label "MAP_SGN" (shape input) (at 135.89 82.55 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 84f39284-09a4-4a34-aa2a-242878861296)
+  )
+  (hierarchical_label "FAN_PWR" (shape output) (at 192.278 57.912 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 88ad3b69-e8c0-4c36-84cd-a551e394051a)
   )
   (hierarchical_label "MAP_SGN" (shape input) (at 192.278 82.55 0)
     (effects (font (size 1.27 1.27)) (justify left))
@@ -478,6 +506,10 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d93ec662-d455-44b6-a4cd-2d578eeb2141)
   )
+  (hierarchical_label "H2O_PWR" (shape output) (at 192.278 59.944 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid da6c5db1-2c75-4077-ba99-175c317b6e52)
+  )
   (hierarchical_label "MAP_GND" (shape output) (at 192.278 80.518 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid df755872-e28e-4459-a7b6-9f8c534b668c)
@@ -498,6 +530,10 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f2818d05-eee0-448a-ad58-c32017ef609a)
   )
+  (hierarchical_label "FUEL_PWR" (shape output) (at 192.278 55.88 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f6681856-3e30-4063-b67f-a2ef32f97e7f)
+  )
   (hierarchical_label "INJ_3" (shape input) (at 192.532 98.806 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f6cc7714-4ec3-4031-ab66-1ca656cb60b1)
@@ -514,7 +550,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f8903a50-f389-416a-b78c-bcbbdaf025eb)
   )
-  (hierarchical_label "EFI_PWR" (shape input) (at 183.388 59.182 180)
+  (hierarchical_label "EFI_PWR" (shape input) (at 183.388 51.816 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid fbacd876-63be-4ac3-9e18-23ce008667b5)
   )
@@ -535,9 +571,9 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 331da9e9-7bf8-4b98-8999-b403ae72a137)
     (property "Reference" "R?" (id 0) (at 90.424 39.6239 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "R120" (id 1) (at 90.424 42.1639 0)
+    (property "Value" "R120" (id 1) (at 91.44 40.8939 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 86.868 40.894 90)
@@ -554,9 +590,9 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 6128d527-2a96-4ca5-ad02-69a59cca6a49)
     (property "Reference" "R?" (id 0) (at 230.632 39.6239 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "R120" (id 1) (at 230.632 42.1639 0)
+    (property "Value" "R120" (id 1) (at 231.14 40.8939 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 227.076 40.894 90)
@@ -633,41 +669,20 @@
     (path "/" (page "1"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af" (page "2"))
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba" (page "3"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/53ac2e2d-c2df-4ea2-a089-bbe68ee8714f" (page "4"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6" (page "5"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6" (page "6"))
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153" (page "7"))
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921" (page "7"))
     (path "/8089b290-d208-4c94-858c-dff9966b58d6" (page "8"))
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b" (page "9"))
     (path "/cd87b180-e5e1-4fae-8636-4859bb94d6e9" (page "10"))
   )
 
   (symbol_instances
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/00eefa3c-d352-4f7e-a7eb-61c61fb1d437"
-      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/0c2b7b7c-f531-4e4d-b7e9-14009c71c2a8"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/488a10eb-1ad9-470b-a678-dc234c989807"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/4b78eb0d-b686-48cb-bb04-b5ac139e5b04"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/5f10cd91-beab-401a-9006-b24e1931c24b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/6d1771fe-f6c2-450e-9d3e-65d2f7f7ed55"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/713f16f1-4af6-42c9-a147-2452a075494d"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/86beb290-aa94-483f-b3ec-5f12bf0d4376"
-      (reference "#PWR?") (unit 1) (value "-12V") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/b401045c-d5fc-43b2-b6b6-d7c38968422c"
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/727abcc0-f65f-4e4a-8a3b-52709c9de1ea"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/bafc8dad-26ca-4e46-880c-6a5a4417cb51"
@@ -676,29 +691,14 @@
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/d9f3d2d9-595c-4ac0-877c-2009b6898fcc"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/e2f800aa-b169-43f1-ba7f-7b7b429c05be"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/fa13aa04-2cb8-4e56-9171-fb4fa9da42b9"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/1a0a57df-3df3-4933-9098-4aa3772279b0"
       (reference "BT?") (unit 1) (value "Battery") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/ca7d61f1-bee3-4c8e-982a-392976b5ef5a"
-      (reference "BT?") (unit 1) (value "Battery") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/48fdbfbc-b7af-402c-aa02-76ea76c634c3"
-      (reference "Coil?") (unit 1) (value "L") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/3e9f8713-3871-48b2-b75d-3d560dfcdc3e"
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/44b99ab3-b6ac-4194-943d-3ea0e297710b"
       (reference "D?") (unit 1) (value "LED") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/431650dc-7a0d-4049-a2a5-0f4012a3a97a"
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/86321d69-be03-4260-be96-188c420ed86c"
       (reference "D?") (unit 1) (value "LED") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/0e7f3c87-b82a-4931-9272-90dfa9a38cda"
-      (reference "F?") (unit 1) (value "1A Fuse") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/3693eb7a-dc6e-427e-954b-8fe4aa37f7ca"
       (reference "F?") (unit 1) (value "Fuse 3") (footprint "")
@@ -709,17 +709,14 @@
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/8f47ff78-ca52-4f5b-afa7-9683a8ea3b86"
       (reference "F?") (unit 1) (value "Fuse 4") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/bd2045e9-0a3c-4028-a4de-f532a098bdae"
-      (reference "F?") (unit 1) (value "40AFuse") (footprint "")
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/a4e8b5ab-30d5-4b40-91b6-1968be7bff52"
+      (reference "F?") (unit 1) (value "1A Fuse") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/cb22fe25-46a7-40e3-a16c-5ad37b50926c"
       (reference "F?") (unit 1) (value "Fuse 2") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/e014bf08-f03e-404b-a9ab-9a82173c4fa1"
       (reference "F?") (unit 1) (value "40AFuse") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/e0828101-b64e-4807-a66b-4eceaa7dbf18"
-      (reference "INJ?") (unit 1) (value "L") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/1934fbee-ba19-4311-b371-149caf5afa9e"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
@@ -730,17 +727,23 @@
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/674ea88c-e5d0-48da-9da6-b1c32e5797a9"
       (reference "K?") (unit 1) (value "Starter Relay") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/8c2442dc-adb6-40d8-ac32-a770c9560b3d"
-      (reference "K?") (unit 1) (value "Starter Relay") (footprint "")
-    )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9fb1d08d-a25d-489b-a49c-09206220bcc2"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/c6eb419e-c626-467b-9e45-ee012504670a"
       (reference "K?") (unit 1) (value "Relay") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/789c979f-a102-41a5-94a6-cb4feb9c6cf4"
-      (reference "M?") (unit 1) (value "Starter Motor") (footprint "")
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/6decaa45-eede-4d01-abdb-fcd02813c98e"
+      (reference "L?") (unit 1) (value "COIL 3") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/9866b2e4-a807-47e8-81f1-d6d810060060"
+      (reference "L?") (unit 1) (value "COIL 4") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/c49a27ee-df7c-4f82-a8b7-79d3ae68a0b3"
+      (reference "L?") (unit 1) (value "COIL 1") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/f95a9fb8-6e01-45ea-885f-ee4a0be27ebd"
+      (reference "L?") (unit 1) (value "COIL 2") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/8e80e048-d553-4764-8cb1-07073f377268"
       (reference "M?") (unit 1) (value "Starter Motor") (footprint "")
@@ -751,68 +754,95 @@
     (path "/6128d527-2a96-4ca5-ad02-69a59cca6a49"
       (reference "R?") (unit 1) (value "R120") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/1cecd4a9-110d-4a27-a618-431cd6f88b25"
-      (reference "U?") (unit 1) (value "Fuse_Box_Connector") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/20b82511-f783-419f-a663-9078213095b6"
-      (reference "U?") (unit 1) (value "DTM_Dash") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/2532131a-5745-4d1e-aaf6-097197ab61bc"
-      (reference "U?") (unit 1) (value "3") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/3b29666a-67c2-4472-91aa-b0c8894415aa"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7d7721af-ff65-4fec-b227-3953c58d72e6/3b5fa024-eb67-42ab-86f8-7480852ea0ca"
-      (reference "U?") (unit 1) (value "Master Disconnect Switch (Big Red One)") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/3dce2e80-e48e-4e90-bffa-0c3639f68a0f"
-      (reference "U?") (unit 1) (value "E_Stop") (footprint "")
-    )
-    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
-      (reference "U?") (unit 1) (value "DT_12_Pin") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7204de1b-d34d-45d4-9671-fd656b683233"
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/06e615dd-df6e-40be-97ce-3c04c6b8b104"
       (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/78a2af29-11b1-4b2c-a617-5c3597d1d1a7"
-      (reference "U?") (unit 1) (value "ECU2") (footprint "")
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/0708ee82-a34a-4c49-a5bd-464de5ebe630"
+      (reference "U?") (unit 1) (value "INJECTOR 4") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/0e21f01e-f5ec-4519-b664-89c5a152c937"
+      (reference "U?") (unit 1) (value "ECU") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/0f37eb1e-d0c3-477e-b141-561e77bf7382"
+      (reference "U?") (unit 1) (value "DT_12P_Green_Male") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1be961f7-7fee-438b-9a8d-6367230fc14f"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/1faa4ec1-0919-4808-882a-5e6c12939f37"
+      (reference "U?") (unit 1) (value "INJECTOR 1") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/345e760a-b885-4acd-aae4-b5e49666f19f"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/3f468ea3-a296-48ac-aa33-a8849dc36441"
+      (reference "U?") (unit 1) (value "DTM_12P_BROWN_FEMALE") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/4248aebe-7b8b-4a3c-859c-a3f6ad31b11e"
+      (reference "U?") (unit 1) (value "DTM_12P_Green_Male") (footprint "")
+    )
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
+      (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
+    )
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/4fee5a43-f400-4b08-887b-703f97aa8a40"
+      (reference "U?") (unit 1) (value "Start Button") (footprint "")
+    )
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/52aa3f98-9bc4-4aeb-807f-8850af5fb5ca"
+      (reference "U?") (unit 1) (value "E_Stop") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/677e6ebc-0822-4cab-be53-b5adcb00e866"
+      (reference "U?") (unit 1) (value "DTM_12P_GRAY_FEMALE") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/6dd21c12-258d-4184-a1c2-51d489e647f6"
+      (reference "U?") (unit 1) (value "DTM_12P_BLACK_FEMALE") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7a0624b3-7635-4fab-afdf-0bc18e6b2fc9"
+      (reference "U?") (unit 1) (value "DTM_12P_GREEN_FEMALE") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/7ca7f5ef-bd73-4f92-b872-9c50ea8c59e3"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/85f93514-dcb0-41b7-96bd-fdec7c68ce6d"
-      (reference "U?") (unit 1) (value "Shift Up") (footprint "")
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/85ce6709-f174-4451-a3b9-19669a3a054c"
+      (reference "U?") (unit 1) (value "INJECTOR 2") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/992c69f0-296b-42bb-b97b-5a36d0ed0145"
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/88417571-5108-4340-947e-bb12839dcc9d"
       (reference "U?") (unit 1) (value "Ignition Switch") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/994da6e4-6e9e-4161-a30a-5bc3ca8203d6"
-      (reference "U?") (unit 1) (value "Shift Down") (footprint "")
-    )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9ad36b87-025b-4660-a2a7-2295d4ef041a"
-      (reference "U?") (unit 1) (value "DTM04-12pb") (footprint "")
+      (reference "U?") (unit 1) (value "DTM_12P_BLACK_MALE") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/9ce5d8d6-57b4-4f99-9edf-1ca9e2e7465c"
       (reference "U?") (unit 1) (value "Fuse_Box_Connector") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/ad564358-d1da-438c-97a1-bce0f107cb7c"
-      (reference "U?") (unit 1) (value "Start Button") (footprint "")
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/a09d31ec-f617-4c6a-a736-0094e9036fa3"
+      (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
+    )
+    (path "/8089b290-d208-4c94-858c-dff9966b58d6/aaf12f45-4c11-4651-8d0a-9f049d41b7ce"
+      (reference "U?") (unit 1) (value "INJECTOR 3") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/b4002a5d-423f-48e4-9c15-4225a5a572ac"
       (reference "U?") (unit 1) (value "Master Disconnect Switch (Big Red One)") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/bfc44f69-a55b-4643-9cb4-fb54ed70cb48"
+      (reference "U?") (unit 1) (value "DT_12P_GREEN_FEMALE") (footprint "")
+    )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/c19ff2e9-90b3-4963-ad0e-1db686587abb"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/53ac2e2d-c2df-4ea2-a089-bbe68ee8714f/d716e568-9167-484a-872e-e4bb0c920da3"
-      (reference "U?") (unit 1) (value "ECU") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/9497869a-07db-4902-ab45-929f549baad6/e1c39ef5-d71a-4924-93c9-5f7392fbec01"
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/ed034898-f6a9-43f8-b2d3-b00aa2f90e7d"
       (reference "U?") (unit 1) (value "Brake Over-travel") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/7c62c02e-06a1-4b87-9f1e-fbacd6b03153/f475dfb6-4e72-4a41-93e5-26f251fce7df"
-      (reference "U?") (unit 1) (value "4") (footprint "")
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/eda14336-0339-4294-97a4-b8b284e4ddfe"
+      (reference "U?") (unit 1) (value "Shift Down") (footprint "")
+    )
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/f56f3845-3b7e-4df1-a933-44616046a466"
+      (reference "U?") (unit 1) (value "DTM_Dash") (footprint "")
+    )
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/f81fb407-8a2d-4188-904d-9238af12a537"
+      (reference "U?") (unit 1) (value "Shift Up") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/f85160db-6258-4e74-969d-6ed5c7759772"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
     )
   )
 )

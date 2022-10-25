@@ -7,4 +7,9 @@
   (lib_symbols
   )
 
+
+  (text "Go Back Up Stupid" (at 130.048 88.646 0)
+    (effects (font (size 2.54 2.54)) (justify left bottom))
+    (uuid 4af10e79-f6ae-450b-a828-7be90b2be44c)
+  )
 )
