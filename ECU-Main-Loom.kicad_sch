@@ -201,7 +201,7 @@
     (property "Reference" "U?" (id 0) (at 156.21 54.1019 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Value" "" (id 1) (at 155.956 55.3719 0)
+    (property "Value" "ECU" (id 1) (at 155.956 55.3719 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "" (id 2) (at 86.106 50.8 0)
