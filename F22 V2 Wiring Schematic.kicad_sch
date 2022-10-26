@@ -712,6 +712,12 @@
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
       (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/4c8a8c96-bff7-43f6-b5a4-47e515c9a978"
+      (reference "U?") (unit 1) (value "Infinity7_C2_29-56_pins") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/4fb53122-4c20-40e0-a740-adaa8756fc14"
+      (reference "U?") (unit 1) (value "Infinity7_C1_33-72_pins") (footprint "")
+    )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/4fee5a43-f400-4b08-887b-703f97aa8a40"
       (reference "U?") (unit 1) (value "Start Button") (footprint "")
     )
@@ -735,6 +741,9 @@
     )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/88417571-5108-4340-947e-bb12839dcc9d"
       (reference "U?") (unit 1) (value "Ignition Switch") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/94795686-3189-4e8b-b6be-cffe83698003"
+      (reference "U?") (unit 1) (value "Infinity7_C2_1-28_pins") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9ad36b87-025b-4660-a2a7-2295d4ef041a"
       (reference "U?") (unit 1) (value "DTM_12P_BLACK_MALE") (footprint "")
@@ -762,6 +771,9 @@
     )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/eda14336-0339-4294-97a4-b8b284e4ddfe"
       (reference "U?") (unit 1) (value "Shift Down") (footprint "")
+    )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/ee724849-3c01-4a6d-9fa8-5560657878dd"
+      (reference "U?") (unit 1) (value "Infinity7_C1_1-32 pins") (footprint "")
     )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/f56f3845-3b7e-4df1-a933-44616046a466"
       (reference "U?") (unit 1) (value "DTM_Dash") (footprint "")
