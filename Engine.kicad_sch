@@ -1093,7 +1093,7 @@
     (property "Datasheet" "" (id 3) (at 134.62 80.518 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 26134c7d-4e61-40e0-94cd-0700a2aa37cc))
+    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbc1))
     (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbc1))
   )
 
@@ -1156,8 +1156,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 62.738 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea3))
-    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea3))
+    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea4))
+    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea4))
   )
 
   (symbol (lib_id "SCR23 Library:DT_12_Pin") (at 200.66 42.164 0) (unit 1)
@@ -1270,7 +1270,7 @@
     (property "Datasheet" "" (id 3) (at 134.62 68.834 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 2c585a31-fc0e-4476-b91e-b885442837f9))
+    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c946))
     (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c946))
   )
 
@@ -1340,7 +1340,7 @@
     (property "Datasheet" "" (id 3) (at 134.62 74.422 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 1abb40ce-435f-4c71-87f1-9f724190428d))
+    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9de8))
     (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9de8))
   )
 

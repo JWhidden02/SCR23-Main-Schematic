@@ -1296,7 +1296,7 @@
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 03908c32-4728-430d-99d4-f08a90aea921)
-    (property "Sheet name" "ECU Pinout" (id 0) (at 17.526 16.3064 0)
+    (property "Sheet name" "ECU Pinouts" (id 0) (at 17.526 16.3064 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheet file" "ECU_Pinout.kicad_sch" (id 1) (at 17.526 25.7306 0)
