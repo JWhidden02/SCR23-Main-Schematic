@@ -1093,8 +1093,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 80.518 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbc2))
-    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbc2))
+    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbc4))
+    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbc4))
   )
 
   (symbol (lib_id "SCR23 Library:DT_12_Pin") (at 119.888 42.164 0) (unit 1)
@@ -1156,8 +1156,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 62.738 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea5))
-    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea5))
+    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea7))
+    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270ea7))
   )
 
   (symbol (lib_id "SCR23 Library:DT_12_Pin") (at 200.66 42.164 0) (unit 1)
@@ -1270,8 +1270,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 68.834 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c947))
-    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c947))
+    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c949))
+    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c949))
   )
 
   (symbol (lib_id "Motor:Motor_DC") (at 108.712 161.036 90) (unit 1)
@@ -1340,8 +1340,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 74.422 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9de9))
-    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9de9))
+    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9deb))
+    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9deb))
   )
 
   (symbol (lib_id "symbols:switch") (at 55.372 158.496 0) (unit 1)
