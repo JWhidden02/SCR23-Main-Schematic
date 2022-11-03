@@ -703,6 +703,9 @@
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/345e760a-b885-4acd-aae4-b5e49666f19f"
       (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
     )
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/374a9030-9475-4540-b519-ad5d201ecb1f"
+      (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
+    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/3f468ea3-a296-48ac-aa33-a8849dc36441"
       (reference "U?") (unit 1) (value "DTM_12P_BROWN_FEMALE") (footprint "")
     )
@@ -723,6 +726,9 @@
     )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/52aa3f98-9bc4-4aeb-807f-8850af5fb5ca"
       (reference "U?") (unit 1) (value "E_Stop") (footprint "")
+    )
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/60b00dab-3afe-4e5d-8ec7-3a90cafa8c78"
+      (reference "U?") (unit 1) (value "DTM_12P_BLACK_MALE") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/677e6ebc-0822-4cab-be53-b5adcb00e866"
       (reference "U?") (unit 1) (value "DTM_12P_GRAY_FEMALE") (footprint "")
@@ -748,11 +754,11 @@
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9ad36b87-025b-4660-a2a7-2295d4ef041a"
       (reference "U?") (unit 1) (value "DTM_12P_BLACK_MALE") (footprint "")
     )
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9c556ca5-efe8-4e2f-961f-f88499e0b239"
+      (reference "U?") (unit 1) (value "DT_12P_BLACK_MALE") (footprint "")
+    )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/9ce5d8d6-57b4-4f99-9edf-1ca9e2e7465c"
       (reference "U?") (unit 1) (value "Fuse_Box_Connector") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/a09d31ec-f617-4c6a-a736-0094e9036fa3"
-      (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/aaf12f45-4c11-4651-8d0a-9f049d41b7ce"
       (reference "U?") (unit 1) (value "INJECTOR 3") (footprint "")
@@ -765,6 +771,9 @@
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/c19ff2e9-90b3-4963-ad0e-1db686587abb"
       (reference "U?") (unit 1) (value "Bridge") (footprint "")
+    )
+    (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/ce71bae7-c52e-427e-9a8f-b05e9f8cb934"
+      (reference "U?") (unit 1) (value "DTM_12P_BROWN_MALE") (footprint "")
     )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/ed034898-f6a9-43f8-b2d3-b00aa2f90e7d"
       (reference "U?") (unit 1) (value "Brake Over-travel") (footprint "")
