@@ -335,7 +335,11 @@
     ],
     [
       "03908c32-4728-430d-99d4-f08a90aea921",
-      "ECU Pinouts"
+      "Infinity 7 Pinout"
+    ],
+    [
+      "6d55809a-8068-448f-a4a2-c0051f118b1f",
+      "Loads"
     ],
     [
       "8089b290-d208-4c94-858c-dff9966b58d6",
@@ -344,6 +348,14 @@
     [
       "d75c62e5-497b-4bcb-875e-651ecad01f1b",
       "Dashboard"
+    ],
+    [
+      "4a1b6047-a888-4059-a224-d4582bd84a38",
+      "RUS Pinout"
+    ],
+    [
+      "5a3a883e-d9b0-420e-abcd-4068fe1fa546",
+      "Infinity 5 Pinout"
     ]
   ],
   "text_variables": {}

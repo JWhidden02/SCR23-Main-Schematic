@@ -599,8 +599,11 @@
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba" (page "3"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/4de61517-d9cf-4c7a-9bf3-3fb541f362af" (page "4"))
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921" (page "7"))
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/6d55809a-8068-448f-a4a2-c0051f118b1f" (page "8"))
     (path "/8089b290-d208-4c94-858c-dff9966b58d6" (page "8"))
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b" (page "9"))
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/4a1b6047-a888-4059-a224-d4582bd84a38" (page "9"))
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5a3a883e-d9b0-420e-abcd-4068fe1fa546" (page "10"))
   )
 
   (symbol_instances
@@ -682,9 +685,6 @@
     (path "/6128d527-2a96-4ca5-ad02-69a59cca6a49"
       (reference "R?") (unit 1) (value "R120") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/06e615dd-df6e-40be-97ce-3c04c6b8b104"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
-    )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/0708ee82-a34a-4c49-a5bd-464de5ebe630"
       (reference "U?") (unit 1) (value "INJECTOR 4") (footprint "")
     )
@@ -694,14 +694,8 @@
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/0f37eb1e-d0c3-477e-b141-561e77bf7382"
       (reference "U?") (unit 1) (value "DT_12P_Green_Male") (footprint "")
     )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/1be961f7-7fee-438b-9a8d-6367230fc14f"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
-    )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/1faa4ec1-0919-4808-882a-5e6c12939f37"
       (reference "U?") (unit 1) (value "INJECTOR 1") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/345e760a-b885-4acd-aae4-b5e49666f19f"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
     )
     (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/374a9030-9475-4540-b519-ad5d201ecb1f"
       (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
@@ -711,9 +705,6 @@
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/4248aebe-7b8b-4a3c-859c-a3f6ad31b11e"
       (reference "U?") (unit 1) (value "DTM_12P_Green_Male") (footprint "")
-    )
-    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/48386ff0-d03e-46fe-bdc6-f35bb77ab890"
-      (reference "U?") (unit 1) (value "DT_12P_BLACK_FEMALE") (footprint "")
     )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/4c8a8c96-bff7-43f6-b5a4-47e515c9a978"
       (reference "U?") (unit 1) (value "Infinity7_C2_29-56_pins") (footprint "")
@@ -748,17 +739,20 @@
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/88417571-5108-4340-947e-bb12839dcc9d"
       (reference "U?") (unit 1) (value "Ignition Switch") (footprint "")
     )
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5a3a883e-d9b0-420e-abcd-4068fe1fa546/89af6883-5a08-408e-8333-30e990bc6922"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
+    )
     (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/03908c32-4728-430d-99d4-f08a90aea921/94795686-3189-4e8b-b6be-cffe83698003"
       (reference "U?") (unit 1) (value "Infinity7_C2_1-28_pins") (footprint "")
     )
-    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9ad36b87-025b-4660-a2a7-2295d4ef041a"
-      (reference "U?") (unit 1) (value "DTM_12P_BLACK_MALE") (footprint "")
-    )
-    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/9c556ca5-efe8-4e2f-961f-f88499e0b239"
-      (reference "U?") (unit 1) (value "DT_12P_BLACK_MALE") (footprint "")
+    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/5a3a883e-d9b0-420e-abcd-4068fe1fa546/9b28ac90-d070-471b-a890-2c2e7c1242e1"
+      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin41-80") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/9ce5d8d6-57b4-4f99-9edf-1ca9e2e7465c"
       (reference "U?") (unit 1) (value "Fuse_Box_Connector") (footprint "")
+    )
+    (path "/c61ebb53-a6d0-4444-86d9-f19c0fecfdba/6d55809a-8068-448f-a4a2-c0051f118b1f/a36e6f14-3dd6-4862-be7e-96bd96395fd9"
+      (reference "U?") (unit 1) (value "DT_12P_BLACK_MALE") (footprint "")
     )
     (path "/8089b290-d208-4c94-858c-dff9966b58d6/aaf12f45-4c11-4651-8d0a-9f049d41b7ce"
       (reference "U?") (unit 1) (value "INJECTOR 3") (footprint "")
@@ -789,9 +783,6 @@
     )
     (path "/d75c62e5-497b-4bcb-875e-651ecad01f1b/f81fb407-8a2d-4188-904d-9238af12a537"
       (reference "U?") (unit 1) (value "Shift Up") (footprint "")
-    )
-    (path "/d5e68706-1734-4fd4-8c9d-b165d245e9af/f85160db-6258-4e74-969d-6ed5c7759772"
-      (reference "U?") (unit 1) (value "AEM_Infinity_5_Pin1-40") (footprint "")
     )
   )
 )
