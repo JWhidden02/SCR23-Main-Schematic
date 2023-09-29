@@ -1103,8 +1103,8 @@
     (property "Datasheet" "" (at 163.83 82.042 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbcc))
-    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbcc))
+    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbcd))
+    (pin "" (uuid 1d6e072e-1be2-46a2-b93d-f5677b8bfbcd))
     (instances
       (project "F22 V2 Wiring Schematic"
         (path "/64503d07-5f6a-4ffd-b005-97f9848c9cbf/8089b290-d208-4c94-858c-dff9966b58d6"
@@ -1194,8 +1194,8 @@
     (property "Datasheet" "" (at 163.83 64.262 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270eaf))
-    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270eaf))
+    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270eb0))
+    (pin "" (uuid ac0900e4-0514-4a73-b1ae-ed6f9d270eb0))
     (instances
       (project "F22 V2 Wiring Schematic"
         (path "/64503d07-5f6a-4ffd-b005-97f9848c9cbf/8089b290-d208-4c94-858c-dff9966b58d6"
@@ -1363,8 +1363,8 @@
     (property "Datasheet" "" (at 163.83 70.358 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c951))
-    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c951))
+    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c952))
+    (pin "" (uuid 17a54f0b-c870-4b40-aa31-f67eb1f7c952))
     (instances
       (project "F22 V2 Wiring Schematic"
         (path "/64503d07-5f6a-4ffd-b005-97f9848c9cbf/8089b290-d208-4c94-858c-dff9966b58d6"
@@ -1465,8 +1465,8 @@
     (property "Datasheet" "" (at 163.83 75.946 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9df3))
-    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9df3))
+    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9df4))
+    (pin "" (uuid 073a584d-4e1c-4901-bced-2807d24e9df4))
     (instances
       (project "F22 V2 Wiring Schematic"
         (path "/64503d07-5f6a-4ffd-b005-97f9848c9cbf/8089b290-d208-4c94-858c-dff9966b58d6"
